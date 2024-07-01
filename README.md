@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Maruf Ahmed
 #### Climate Change Researcher & Data Science Learner
-a dedicated and passionate researcher with a strong background in Civil Engineering and a keen interest in Humanitarian Engineering. I completed my BSc in Civil Engineering from BUET and am currently pursuing my MSc at IWFM BUET, focusing on Humanitarian Engineering.
+A dedicated and passionate researcher with a strong background in Civil Engineering and a keen interest in Humanitarian Engineering. I completed my BSc in Civil Engineering from BUET and am currently pursuing my MSc at IWFM BUET, focusing on Humanitarian Engineering.
 
 🌱 My MSc thesis explores the future impacts of climate change on hydrological parameters and ecological features. This research fuels my enthusiasm for understanding and mitigating the effects of climate change on our planet.
 
